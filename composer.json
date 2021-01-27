@@ -1,0 +1,16 @@
+{
+    "name": "gunnar/satellasoft",
+    "description": "Projeto para enviar mensagens atrav\u0000s de uma API para o Telegram",
+    "license": "mit",
+    "require": {
+        "telegram-bot/api": "^2.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        },
+        "files": [
+            "config/config.php"
+        ]
+    }
+}

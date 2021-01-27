@@ -1,0 +1,7 @@
+TOKEN: 
+
+Alterar foto: /setuserpic
+
+Criar Robô: /newbot
+
+https://packagist.org/packages/telegram-bot/api
